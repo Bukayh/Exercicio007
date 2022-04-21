@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    background-color: #008080;
+    height: 100px;
+}
+
+div h1 {
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+div h2 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+div a {
+    margin-left: 10px;
+    text-decoration: none;
+    text-align: center;
+    color: #FFFFFF;
+}
