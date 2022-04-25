@@ -4,11 +4,6 @@
 
 }
 
-@viewport {
-    zoom: 1.0;
-    width: extend-to-zoom;
-}
-
 body {
     font-size: 27px;
     background-color: #90EE90;
@@ -17,7 +12,7 @@ body {
 
 div {
     background-color: #008080;
-    height: 165px;
+
 }
 
 div h1 {
@@ -34,21 +29,20 @@ div h2 {
 div li {
     list-style: none;
     display: inline-block;
-    margin-left: 10px;
+    margin-left: 1%;
     position: relative;
-    bottom: -12px;
+
 }
 
 div li a {
-    margin-left: 5px;
     text-decoration: none;
     text-align: center;
     color: #FFFFFF;
 }
 
 section {
-    margin-left: 270px;
-    margin-right: 270px;
+    margin-left: 20%;
+    margin-right: 20%;
     background-color: #80CBC4;
 }
 
@@ -74,8 +68,7 @@ section article figure {
 }
 
 section article figure img {
-    width: 783px;
-    height: 400px;
+    width: 100%;
 }
 
 footer {
